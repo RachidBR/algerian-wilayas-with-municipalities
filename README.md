@@ -1,7 +1,7 @@
 # Algeria Wilayas and Municipalities JSON
 Salam 3likom
 
-Here is a JSON dataset containing the full list of Algeria's 58 **wilayas** (provinces) and their corresponding **municipalities** (communes).
+Here is a JSON dataset containing the full list of Algeria's 58 **wilayas** (provinces) and their corresponding **municipalities** (communes), as an array.
 
 ## Structure
 
@@ -14,7 +14,7 @@ Each wilaya includes:
   - `nameFr`
   - `nameAr`
 
-## Example
+## Example of a wilaya object containing a commune object
 
 ```json
 {
@@ -27,7 +27,6 @@ Each wilaya includes:
       "nameFr": "Adrar",
       "nameAr": "أدرار"
     }
-    // ...
   ]
 }
 ```
