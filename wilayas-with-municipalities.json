@@ -387,11 +387,6 @@
         "id": 68,
         "nameFr": "Benacer Benchohra",
         "nameAr": "بن ناصر بن شهرة"
-      },
-      {
-        "id": 64,
-        "nameFr": "Aflou",
-        "nameAr": "أفلو"
       }
     ]
   },
@@ -782,11 +777,7 @@
         "nameFr": "Chemora",
         "nameAr": "الشمرة"
       },
-      {
-        "id": 122,
-        "nameFr": "Barika",
-        "nameAr": "بريكة"
-      },
+
       {
         "id": 125,
         "nameFr": "Bitam",
@@ -1165,11 +1156,6 @@
         "id": 246,
         "nameFr": "El Outaya",
         "nameAr": "الوطاية"
-      },
-      {
-        "id": 245,
-        "nameFr": "El Kantara",
-        "nameAr": "القنطرة"
       },
       {
         "id": 248,
@@ -1857,11 +1843,6 @@
         "nameAr": "العقلة المالحة"
       },
       {
-        "id": 369,
-        "nameFr": "Bir-El-Ater",
-        "nameAr": "بئر العاتر"
-      },
-      {
         "id": 390,
         "nameFr": "Tebessa",
         "nameAr": "تبسة"
@@ -1977,11 +1958,6 @@
         "id": 417,
         "nameFr": "El Gor",
         "nameAr": "القور"
-      },
-      {
-        "id": 414,
-        "nameFr": "El Aricha",
-        "nameAr": "العريشة"
       },
       {
         "id": 409,
@@ -2245,11 +2221,7 @@
         "nameFr": "Sidi Abderrahmane",
         "nameAr": "سيدي عبد الرحمن"
       },
-      {
-        "id": 459,
-        "nameFr": "Ksar Chellala",
-        "nameAr": "قصر الشلالة"
-      },
+
       {
         "id": 457,
         "nameFr": "Guertoufa",
@@ -3091,11 +3063,7 @@
         "nameFr": "Sed Rahal",
         "nameAr": "سد الرحال"
       },
-      {
-        "id": 636,
-        "nameFr": "Messaad",
-        "nameAr": "مسعد"
-      },
+
       {
         "id": 631,
         "nameFr": "Guettara",
@@ -3161,11 +3129,7 @@
         "nameFr": "Guernini",
         "nameAr": "قرنيني"
       },
-      {
-        "id": 615,
-        "nameFr": "Ain Oussera",
-        "nameAr": "عين وسارة"
-      },
+
       {
         "id": 617,
         "nameFr": "Benhar",
@@ -4520,11 +4484,6 @@
         "nameAr": "السواقي"
       },
       {
-        "id": 929,
-        "nameFr": "Ksar El Boukhari",
-        "nameAr": "قصر البخاري"
-      },
-      {
         "id": 934,
         "nameFr": "M'fatha",
         "nameAr": "مفاتحة"
@@ -5063,11 +5022,7 @@
         "nameFr": "Sidi Hadjeres",
         "nameAr": "سيدي هجرس"
       },
-      {
-        "id": 1006,
-        "nameFr": "Bou Saada",
-        "nameAr": "بوسعادة"
-      },
+
       {
         "id": 1011,
         "nameFr": "El Hamel",
@@ -5756,11 +5711,7 @@
         "nameFr": "Ghassoul",
         "nameAr": "الغاسول"
       },
-      {
-        "id": 1145,
-        "nameFr": "Labiodh Sidi Cheikh",
-        "nameAr": "الأبيض سيدي الشيخ"
-      },
+
       {
         "id": 1140,
         "nameFr": "Boussemghoun",
