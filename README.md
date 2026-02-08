@@ -1,11 +1,12 @@
-# The 58 Algerian Wilayas and Municipalities, as of 21/07/2025
-Salam 3likom
+# The 69 Algerian Wilayas and Municipalities, as of 10/12/2025
 
-Here is a JSON dataset containing the full list of Algeria's 58 **wilayas** (provinces) and their corresponding **municipalities** (communes), as an array.
+Salam alaikum
+Here is a JSON dataset containing the full list of Algeria's 69 **wilayas** (provinces) and their corresponding **municipalities** (communes), as an array.
 
 ## Structure
 
 Each wilaya includes:
+
 - `wilayaCode`: The official numeric code
 - `nameFr`: Name in French
 - `nameAr`: Name in Arabic

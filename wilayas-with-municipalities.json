@@ -387,11 +387,6 @@
         "id": 68,
         "nameFr": "Benacer Benchohra",
         "nameAr": "بن ناصر بن شهرة"
-      },
-      {
-        "id": 64,
-        "nameFr": "Aflou",
-        "nameAr": "أفلو"
       }
     ]
   },
@@ -782,11 +777,7 @@
         "nameFr": "Chemora",
         "nameAr": "الشمرة"
       },
-      {
-        "id": 122,
-        "nameFr": "Barika",
-        "nameAr": "بريكة"
-      },
+
       {
         "id": 125,
         "nameFr": "Bitam",
@@ -1165,11 +1156,6 @@
         "id": 246,
         "nameFr": "El Outaya",
         "nameAr": "الوطاية"
-      },
-      {
-        "id": 245,
-        "nameFr": "El Kantara",
-        "nameAr": "القنطرة"
       },
       {
         "id": 248,
@@ -1857,11 +1843,6 @@
         "nameAr": "العقلة المالحة"
       },
       {
-        "id": 369,
-        "nameFr": "Bir-El-Ater",
-        "nameAr": "بئر العاتر"
-      },
-      {
         "id": 390,
         "nameFr": "Tebessa",
         "nameAr": "تبسة"
@@ -1977,11 +1958,6 @@
         "id": 417,
         "nameFr": "El Gor",
         "nameAr": "القور"
-      },
-      {
-        "id": 414,
-        "nameFr": "El Aricha",
-        "nameAr": "العريشة"
       },
       {
         "id": 409,
@@ -2245,11 +2221,7 @@
         "nameFr": "Sidi Abderrahmane",
         "nameAr": "سيدي عبد الرحمن"
       },
-      {
-        "id": 459,
-        "nameFr": "Ksar Chellala",
-        "nameAr": "قصر الشلالة"
-      },
+
       {
         "id": 457,
         "nameFr": "Guertoufa",
@@ -3091,11 +3063,7 @@
         "nameFr": "Sed Rahal",
         "nameAr": "سد الرحال"
       },
-      {
-        "id": 636,
-        "nameFr": "Messaad",
-        "nameAr": "مسعد"
-      },
+
       {
         "id": 631,
         "nameFr": "Guettara",
@@ -3161,11 +3129,7 @@
         "nameFr": "Guernini",
         "nameAr": "قرنيني"
       },
-      {
-        "id": 615,
-        "nameFr": "Ain Oussera",
-        "nameAr": "عين وسارة"
-      },
+
       {
         "id": 617,
         "nameFr": "Benhar",
@@ -4520,11 +4484,6 @@
         "nameAr": "السواقي"
       },
       {
-        "id": 929,
-        "nameFr": "Ksar El Boukhari",
-        "nameAr": "قصر البخاري"
-      },
-      {
         "id": 934,
         "nameFr": "M'fatha",
         "nameAr": "مفاتحة"
@@ -5063,11 +5022,7 @@
         "nameFr": "Sidi Hadjeres",
         "nameAr": "سيدي هجرس"
       },
-      {
-        "id": 1006,
-        "nameFr": "Bou Saada",
-        "nameAr": "بوسعادة"
-      },
+
       {
         "id": 1011,
         "nameFr": "El Hamel",
@@ -5756,11 +5711,7 @@
         "nameFr": "Ghassoul",
         "nameAr": "الغاسول"
       },
-      {
-        "id": 1145,
-        "nameFr": "Labiodh Sidi Cheikh",
-        "nameAr": "الأبيض سيدي الشيخ"
-      },
+
       {
         "id": 1140,
         "nameFr": "Boussemghoun",
@@ -8108,6 +8059,115 @@
         "nameFr": "Hassi Fehal",
         "nameAr": "حاسي الفحل"
       }
+    ]
+  },
+  {
+    "wilayaCode": 59,
+    "nameFr": "Aflou",
+    "nameAr": "أفلو",
+    "communes": [
+      { "nameFr": "Aflou", "nameAr": "أفلو" },
+      { "nameFr": "Sebgag", "nameAr": "سبقاق" },
+      { "nameFr": "Sidi Bouzid", "nameAr": "سيدي بوزيد" }
+    ]
+  },
+  {
+    "wilayaCode": 60,
+    "nameFr": "Barika",
+    "nameAr": "بريكة",
+    "communes": [
+      { "nameFr": "Barika", "nameAr": "بريكة" },
+      { "nameFr": "M'doukel", "nameAr": "إمْدُوكَال" },
+      { "nameFr": "Bitam", "nameAr": "بيطام" }
+    ]
+  },
+  {
+    "wilayaCode": 61,
+    "nameFr": "Ksar Chellala",
+    "nameAr": "قصر الشلالة",
+    "communes": [
+      { "nameFr": "Ksar Chellala", "nameAr": "قصر الشلالة" },
+      { "nameFr": "Serghine", "nameAr": "سرغين" },
+      {
+        "nameFr": "Zmalet El Emir Abdelkader",
+        "nameAr": "زمالة الأمير عبد القادر"
+      }
+    ]
+  },
+  {
+    "wilayaCode": 62,
+    "nameFr": "Messaad",
+    "nameAr": "مسعد",
+    "communes": [
+      { "nameFr": "Messaad", "nameAr": "مسعد" },
+      { "nameFr": "Deldoul", "nameAr": "دلدول" },
+      { "nameFr": "Selmana", "nameAr": "سلمانة" },
+      { "nameFr": "Sed Rahal", "nameAr": "سد رحال" },
+      { "nameFr": "Guettara", "nameAr": "القطارة" }
+    ]
+  },
+  {
+    "wilayaCode": 63,
+    "nameFr": "Aïn Oussera",
+    "nameAr": "عين وسارة",
+    "communes": [
+      { "nameFr": "Aïn Oussera", "nameAr": "عين وسارة" },
+      { "nameFr": "Guernini", "nameAr": "قرنيني" }
+    ]
+  },
+  {
+    "wilayaCode": 64,
+    "nameFr": "Boussaâda",
+    "nameAr": "بوسعادة",
+    "communes": [
+      { "nameFr": "Boussaâda", "nameAr": "بوسعادة" },
+      { "nameFr": "El Hamel", "nameAr": "الحمل" },
+      { "nameFr": "Oultem", "nameAr": "ولتام" }
+    ]
+  },
+  {
+    "wilayaCode": 65,
+    "nameFr": "El Abiodh Sidi Cheikh",
+    "nameAr": "الأبيض سيدي الشيخ",
+    "communes": [
+      { "nameFr": "El Abiodh Sidi Cheikh", "nameAr": "الأبيض سيدي الشيخ" }
+    ]
+  },
+  {
+    "wilayaCode": 66,
+    "nameFr": "El Kantara",
+    "nameAr": "القنطرة",
+    "communes": [
+      { "nameFr": "El Kantara", "nameAr": "القنطرة" },
+      { "nameFr": "Aïn Zaatout", "nameAr": "عين زعطوط" }
+    ]
+  },
+  {
+    "wilayaCode": 67,
+    "nameFr": "Bir El Ater",
+    "nameAr": "بئر العاتر",
+    "communes": [
+      { "nameFr": "Bir El Ater", "nameAr": "بئر العاتر" },
+      { "nameFr": "Ogla Melha", "nameAr": "عقلة ملحة" }
+    ]
+  },
+  {
+    "wilayaCode": 68,
+    "nameFr": "Ksar El Boukhari",
+    "nameAr": "قصر البخاري",
+    "communes": [
+      { "nameFr": "Ksar El Boukhari", "nameAr": "قصر البخاري" },
+      { "nameFr": "Meftaha", "nameAr": "مفتاح" },
+      { "nameFr": "Saneg", "nameAr": "السانق" }
+    ]
+  },
+  {
+    "wilayaCode": 69,
+    "nameFr": "El Aricha",
+    "nameAr": "العريشة",
+    "communes": [
+      { "nameFr": "El Aricha", "nameAr": "العريشة" },
+      { "nameFr": "El Gor", "nameAr": "القر" }
     ]
   }
 ]
